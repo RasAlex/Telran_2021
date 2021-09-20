@@ -5,10 +5,13 @@
       <module fileurl="file://$PROJECT_DIR$/01_HW_PrimitiveRangers/01_HW_PrimitiveRangers.iml" filepath="$PROJECT_DIR$/01_HW_PrimitiveRangers/01_HW_PrimitiveRangers.iml" />
       <module fileurl="file://$PROJECT_DIR$/01_WrapperClasses_2021-08-03/01_WrapperClasses_2021-08-03.iml" filepath="$PROJECT_DIR$/01_WrapperClasses_2021-08-03/01_WrapperClasses_2021-08-03.iml" />
       <module fileurl="file://$PROJECT_DIR$/02_PrimitiveRanges_2021-08-06/02_PrimitiveRanges_2021-08-06.iml" filepath="$PROJECT_DIR$/02_PrimitiveRanges_2021-08-06/02_PrimitiveRanges_2021-08-06.iml" />
-      <module fileurl="file://$PROJECT_DIR$/02_String_2021-08-06/02_String_2021-.iml" filepath="$PROJECT_DIR$/02_String_2021-08-06/02_String_2021-.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_String_2021-08-06/02_String_2021-08-06.iml" filepath="$PROJECT_DIR$/02_String_2021-08-06/02_String_2021-08-06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_UserTest_2021-08-10/03_UserTest_2021-08-10.iml" filepath="$PROJECT_DIR$/03_UserTest_2021-08-10/03_UserTest_2021-08-10.iml" />
       <module fileurl="file://$PROJECT_DIR$/05_HW_PhotoSelector/src/05_HW_PhotoSelector.iml" filepath="$PROJECT_DIR$/05_HW_PhotoSelector/src/05_HW_PhotoSelector.iml" />
       <module fileurl="file://$PROJECT_DIR$/05_HW_PhotoSelector/05_HW_PhotoSelector1.iml" filepath="$PROJECT_DIR$/05_HW_PhotoSelector/05_HW_PhotoSelector1.iml" />
       <module fileurl="file://$PROJECT_DIR$/06_Employee_2021-08-21/06_Employee_2021-08-21.iml" filepath="$PROJECT_DIR$/06_Employee_2021-08-21/06_Employee_2021-08-21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13_HW_Matrix/13_HW_Matrix.iml" filepath="$PROJECT_DIR$/13_HW_Matrix/13_HW_Matrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13_MultiDementionArrays_2021-09-17/13_MultiDementionArrays_2021-09-17.iml" filepath="$PROJECT_DIR$/13_MultiDementionArrays_2021-09-17/13_MultiDementionArrays_2021-09-17.iml" />
       <module fileurl="file://$PROJECT_DIR$/Telran_2021.iml" filepath="$PROJECT_DIR$/Telran_2021.iml" />
     </modules>
   </component>
