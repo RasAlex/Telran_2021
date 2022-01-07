@@ -12,6 +12,10 @@
       <module fileurl="file://$PROJECT_DIR$/06_Employee_2021-08-21/06_Employee_2021-08-21.iml" filepath="$PROJECT_DIR$/06_Employee_2021-08-21/06_Employee_2021-08-21.iml" />
       <module fileurl="file://$PROJECT_DIR$/13_HW_Matrix/13_HW_Matrix.iml" filepath="$PROJECT_DIR$/13_HW_Matrix/13_HW_Matrix.iml" />
       <module fileurl="file://$PROJECT_DIR$/13_MultiDementionArrays_2021-09-17/13_MultiDementionArrays_2021-09-17.iml" filepath="$PROJECT_DIR$/13_MultiDementionArrays_2021-09-17/13_MultiDementionArrays_2021-09-17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/35_MultitheadingIntro_2021-12-14/35_MultitheadingIntro_2021-12-14.iml" filepath="$PROJECT_DIR$/35_MultitheadingIntro_2021-12-14/35_MultitheadingIntro_2021-12-14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/36_SleepInterrupt_2021-12-17/36_SleepInterrupt_2021-12-17.iml" filepath="$PROJECT_DIR$/36_SleepInterrupt_2021-12-17/36_SleepInterrupt_2021-12-17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/41_SocketClient_2022-01-07/41_SocketClient_2022-01-07.iml" filepath="$PROJECT_DIR$/41_SocketClient_2022-01-07/41_SocketClient_2022-01-07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/41_SocketServer_2022-01-07/41_SocketServer_2022-01-07.iml" filepath="$PROJECT_DIR$/41_SocketServer_2022-01-07/41_SocketServer_2022-01-07.iml" />
       <module fileurl="file://$PROJECT_DIR$/Telran_2021.iml" filepath="$PROJECT_DIR$/Telran_2021.iml" />
     </modules>
   </component>
